@@ -1,0 +1,13 @@
+.UpperBlock{display:flex;}
+.LowerBlock{display:flex;}
+.FoodBlock{border: 1px solid #000000;border-radius: 6px; margin-top:5px; margin-left: 5px; margin-right:5px; text-align: center;}
+.FoodImage{  padding: auto; width: 300px; margin-top:5px; margin-left: 5px; margin-right:5px; max-width: 100%;
+  height: auto;}
+@media (max-width: 779px)
+{
+    main{display:inline}
+}
+
+
+h1{text-align: center;}
+footer{ left: 0; bottom: 0;  width: 100%; color: black; text-align: center;}
